@@ -1,0 +1,4 @@
+Assalmun Alaikum, today's topic is File Handling.
+Today we will discusss about creating a file.
+Now start the class.
+
