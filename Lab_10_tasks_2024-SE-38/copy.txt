@@ -1,0 +1,7 @@
+Assalmun Alaikum, today's topic is File Handling.
+Today we will discuss about creating a file.
+Now start the class.
+
+Kamal Ali Akmal is here.
+My Roll no is 2024-SE-38.
+My Registration No is 2024-UMDB-004775.
